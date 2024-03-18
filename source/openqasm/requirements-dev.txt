@@ -1,5 +1,5 @@
 pytest>=6.0
 pyyaml
 pylint>=2.9
-black>=20.8b0
+black>=24.3.0
 Sphinx>=4.0
