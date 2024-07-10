@@ -3,3 +3,4 @@ sphinxcontrib-bibtex
 openqasm_pygments~=0.1.0
 pylint
 reno
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
